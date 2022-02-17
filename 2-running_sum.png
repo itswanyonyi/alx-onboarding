@@ -1,0 +1,9 @@
+
+ Start
+input numbers
+Initialize sum
+While number  is greater than or equal to 0
+Calculate sum= sum + numbers
+Print the sum
+else
+Stop.
